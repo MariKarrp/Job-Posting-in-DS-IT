@@ -13,6 +13,8 @@ Interactive dashboard for analyzing IT and Data Science job vacancies in Russia 
 ## Demo
 
 ![Dashboard Preview](/visualization/img.png)
+### Link
+https://job-posting-in-ds-it-ocbqcjzjqznhehnkbxjswd.streamlit.app/
 
 ## Project Structure
 
@@ -35,6 +37,23 @@ Job-Posting-in-DS-IT/
 │
 └── README.md 
 ```
+
+## Data
+
+### Raw Data Sources
+
+| Source | Region | Records |
+|--------|--------|-------|
+| hh_it_vacancies_47k.csv | Russia | 43,990 |
+| zarplata_selenium_vacancies.csv | Russia | 1,053 |
+| trudvsem_vacancies.csv | Russia | 192 |
+| habr_vacancies_*.csv | Russia | 536 |
+| habr_jobs_*.csv | Russia | 382 |
+| linkedin_ds_it_vacancies.csv | Global | 2,700 |
+| remotive_vacancies.csv | Global | 20 |
+| muse_vacancies.csv | Global | 262 | 
+| arbeitnow_vacancies.csv | Global | 834 |
+
 ## Limitations
 - **City ranking formula**: 
   - Cities are ranked using a **weighted score**: `avg_salary × (0.7 + 0.3 × (vacancies / max_vacancies))`
