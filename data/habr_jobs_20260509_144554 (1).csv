@@ -1,0 +1,383 @@
+﻿id,title,company,city,remote,salary,skills,search_term,collected_at
+1000165669,Data Scientist,Фарпост,Владивосток,True,,"Deep Learning, SQL, Python",data scientist,2026-05-09 14:44:46
+1000166256,Data Scientist,М Тех,Москва,True,,"SQL, Python",data scientist,2026-05-09 14:44:46
+1000166148,Data Analyst / Data Scientist (Fintech / Payments),AUROSPACE Holding,Москва,True,от 4000 до 10 000 $,"SQL, Python, PostgreSQL, BI, Анализ данных",data scientist,2026-05-09 14:44:46
+1000166025,Data Scientist (NLP|LLM),СберЗдоровье,Москва,True,,"NLP, LLM, Компьютерное зрение, Python",data scientist,2026-05-09 14:44:46
+1000166241,Data Scientist,М Тех,Москва,True,,"Python, SQL, Apache Kafka",data scientist,2026-05-09 14:44:46
+1000166367,Data Engineer,М Тех,Не указан,True,,"ClickHouse, Greenplum, Apache Airflow, Apache Spark, ETL",data scientist,2026-05-09 14:44:46
+1000164666,Data Engineer,Т-Банк,Новосибирск,True,,"Greenplum, SQL, Python, Apache Airflow, ETL, DWH, Apache NiFi",data scientist,2026-05-09 14:44:46
+1000161696,Архитектор (Data/AI),СберЗдоровье,Москва,True,,"Python, DWH, ETL, Apache Airflow, Объектное хранилище S3",data scientist,2026-05-09 14:44:46
+1000165271,Data analyst,ИТ-компания «Лоция»,Москва,True,,PostgreSQL,data scientist,2026-05-09 14:44:46
+1000164179,Data Engineer,Coral Club,Москва,True,,"PostgreSQL, SQL, Python, Базы данных",data scientist,2026-05-09 14:44:46
+1000166067,Data-engineer,OPENCITY,Не указан,True,от 50 000 ₽,"SQL, ETL, PostgreSQL, FastAPI, Docker, CI/CD, PostGIS, Yandex.Cloud, LLM, MongoDB",data scientist,2026-05-09 14:44:46
+1000166193,Data Engineer,CINIMEX,Москва,False,,"Apache Spark, Apache Hadoop, Java, ClickHouse, ETL",data scientist,2026-05-09 14:44:46
+1000153953,Data Engineer mid (DWH),СберЗдоровье,Москва,True,,"SQL, Python, DWH, ClickHouse, Apache Airflow, Greenplum",data scientist,2026-05-09 14:44:46
+1000160859,Data Steward/Менеджер по данным,АстраЗенека,Москва,False,,"Базы данных, Алгоритмы и структуры данных",data scientist,2026-05-09 14:44:46
+1000166150,Lead Data Analyst / Analytics Lead,ЭПЕКО,Москва,False,,"SQL, Python, Базы данных, PHP, Docker, PostgreSQL, MySQL, ClickHouse",data scientist,2026-05-09 14:44:46
+1000165982,Data Engineer,deeplay,Новосибирск,True,,"SQL, PostgreSQL, Python",data scientist,2026-05-09 14:44:46
+1000166230,Аналитик данных (Senior Data Analyst),ЛАНИТ,Не указан,True,,"SQL, ETL, DWH, PowerBI",data scientist,2026-05-09 14:44:46
+1000166124,Аккаунт-директор / Account Director (e-commerce & data),AЭРО,Москва,False,,"Управление проектами, Развитие бизнеса, Управление рисками, Ведение переговоров",data scientist,2026-05-09 14:44:46
+1000165117,Data Engineer/Дата инженер (ученик),Aston,Москва,True,от 90 000 до 100 000 ₽,"Визуализация, NoSQL, SQL, Python, Agile, Математическая статистика, Базы данных",data scientist,2026-05-09 14:44:46
+1000163193,Старший Data Engineer,Cloud.ru,Москва,True,,SQL,data scientist,2026-05-09 14:44:46
+1000166351,BI разработчик,CINIMEX,Москва,True,,"PowerBI, ClickHouse, Yandex DataLens, SQL",data scientist,2026-05-09 14:44:46
+1000164611,Project Manager (BigData),МегаФон,Не указан,True,,"LLM, Управление продуктами, A/B тестирование",data scientist,2026-05-09 14:44:46
+1000164103,Руководитель группы разработки в Data center infrastructure management,Яндекс,Санкт-Петербург,False,,"Python, Golang, Управление людьми",data scientist,2026-05-09 14:44:46
+1000165571,Lead ML Engineer (Computer Vision),Банк России,Москва,False,,"Компьютерное зрение, Python, SQL, Kubernetes, Docker, Apache Hadoop, Большие данные, Apache Airflow, Data Version Control, Prometheus",data scientist,2026-05-09 14:44:46
+1000165607,Middle/Senior DevOps Engineer [МТС Веб Сервисы],МТС Web Services,Москва,False,,"Kubernetes, Terraform",data scientist,2026-05-09 14:44:46
+1000164839,Product Analyst,Wildberries & Russ,Санкт-Петербург,True,,"SQL, Python, A/B тестирование",data scientist,2026-05-09 14:44:48
+1000165038,Аналитик данных,Анонимный работодатель,Санкт-Петербург,False,,Python,data scientist,2026-05-09 14:44:48
+1000135389,Аналитик данных,МегаФон,Не указан,True,,"Python, SQL, Продуктовая аналитика, A/B тестирование",data scientist,2026-05-09 14:44:48
+1000165362,MLOps Engineer,Aston,Не указан,True,,LLM,data scientist,2026-05-09 14:44:48
+1000166088,Аналитик DWH,БЮРО 1440,Москва,True,,"SQL, Python, DWH, ClickHouse",data scientist,2026-05-09 14:44:48
+1000166386,Software Architect,Arenadata,Не указан,True,,Apache Hadoop,data scientist,2026-05-09 14:44:48
+1000166352,MLops инженер,IBS,Москва,False,,"Python, ETL, Greenplum, Apache Hadoop, Apache Airflow, LLM, NLP",data scientist,2026-05-09 14:44:48
+1000164798,Архитектор решений / Архитектор Presale (СУБД),МТ-Интеграция,Не указан,True,,"PostgreSQL, SQL, Linux",data scientist,2026-05-09 14:44:48
+1000166177,Руководитель отдела аналитики,LADA Цифра,Москва,False,,"SQL, Python, Apache Superset, BI, PowerBI, Анализ данных, Продуктовая аналитика, A/B тестирование",data scientist,2026-05-09 14:44:48
+1000165809,Инженер данных,SimbirSoft,Не указан,True,,"PostgreSQL, ClickHouse, Python, Apache Airflow, Apache NiFi",data scientist,2026-05-09 14:44:48
+1000166322,Team Lead разработки (Java),AЭРО,Не указан,True,,"Java, Apache Kafka, Высоконагруженные системы, PostgreSQL, Spring Boot, Java Spring Framework, Kubernetes",data scientist,2026-05-09 14:44:48
+1000166115,Fullstack аналитик в команду Логистики,2GIS,Москва,True,,"SQL, Системный анализ, Анализ требований, ER-диаграммы, BPMN, Бизнес аналитика, Бизнес-моделирование, Описание бизнес-процессов, REST",data scientist,2026-05-09 14:44:48
+1000161257,Java разработчик (СОПББ),ИТ-Холдинг Т1,Екатеринбург,True,,Java,data scientist,2026-05-09 14:44:48
+1000165612,Java Developer,ITK academy,Казань,True,от 75 000 ₽,"Java, Kotlin, Git, Docker, Java Spring Framework",data scientist,2026-05-09 14:44:48
+1000166222,C# Developer (WinForms + SQL),Ляпунов и Резниченко,Санкт-Петербург,False,от 350 000 ₽,"C#, Windows Forms, .NET, SQL, RESTful API",data scientist,2026-05-09 14:44:48
+1000166002,Продуктовый аналитик в Путешествия,Яндекс,Санкт-Петербург,False,,"SQL, Python",data scientist,2026-05-09 14:44:48
+1000166297,Lead Search Engineer,Nibelung,Не указан,True,,"Python, Git, Docker, Linux, RabbitMQ, Golang, Kubernetes, Elasticsearch",data scientist,2026-05-09 14:44:48
+1000166263,IOS разработчик,М Тех,Москва,True,,Swift,data scientist,2026-05-09 14:44:48
+1000166356,ML Engineer,Нетбелл,Не указан,True,,"Python, LLM, Docker, Kubernetes",data scientist,2026-05-09 14:44:48
+1000165703,Аналитик данных (Антифрод-система),Совкомбанк Технологии,Казань,False,,"SQL, Python, TensorFlow, Keras, NumPy, Pandas, PyTorch, Машинное обучение",data scientist,2026-05-09 14:44:48
+1000165804,BI-аналитик,Coral Club,Не указан,True,,"PostgreSQL, Apache Superset, Python, React, DWH",data scientist,2026-05-09 14:44:48
+1000166400,"Разработчик Hadoop (Мск, Спб, Сочи, Нижний Новгород)",Bell Integrator,Нижний Новгород,True,,"Java, Apache Hadoop, Apache Kafka",data scientist,2026-05-09 14:44:48
+1000166117,NLP-разработчик в Алису,Яндекс,Москва,False,,NLP,data scientist,2026-05-09 14:44:48
+1000164629,Техлид в команду высокоточных цифровых дорожных карт,Navio,Москва,False,,"Python, Алгоритмы и структуры данных, Большие данные, Машинное обучение, Deep Learning, Нейронные сети, PyTorch, Компьютерное зрение",data scientist,2026-05-09 14:44:48
+1000165674,Разработчик на Java/Kotlin в Финтех Яндекса,Яндекс,Санкт-Петербург,True,,"Java, Apache Kafka, PostgreSQL, Kubernetes, Redis, Kotlin, ClickHouse, Greenplum",data scientist,2026-05-09 14:44:48
+1000113326,Разработчик Oracle,Банк России,Санкт-Петербург,False,,"SQL, Oracle, Oracle PL/SQL, Git, PostgreSQL",data scientist,2026-05-09 14:44:50
+1000156497,IOS-разработчик в Маркетплейс,Wildberries & Russ,Не указан,True,,"Swift, UIKit, Google Firebase, Realm, Разработка под iOS",data scientist,2026-05-09 14:44:50
+1000136036,SDET QA инженер (Java auto),Банк России,Санкт-Петербург,False,,"ООП, Git, Java, Selenium, SQL",data scientist,2026-05-09 14:44:50
+1000161557,Начальник отдела автотестирования,Банк России,Санкт-Петербург,False,,"SQL, Selenium, Java, Selenide, Автоматизация тестирования",data scientist,2026-05-09 14:44:50
+1000139185,Руководитель группы разработки (backend Node.js),X5 Digital,Москва,True,,"Node.js, MongoDB, Redis, RabbitMQ, ClickHouse",data scientist,2026-05-09 14:44:50
+1000166309,Системный аналитик ЦФТ,Юзтех,Не указан,True,,"SQL, Oracle PL/SQL, Apache Kafka, RabbitMQ",data scientist,2026-05-09 14:44:50
+1000166122,1С Аналитик,Aston,Не указан,True,,"1C: ERP, Высоконагруженные системы",data scientist,2026-05-09 14:44:50
+1000164868,Fullstack-разработчик (REACT+JAVA),Банк России,Санкт-Петербург,False,,"Java, React, Node.js, Angular, Junit",data scientist,2026-05-09 14:44:50
+1000166255,Разработчик Java,М Тех,Москва,True,,Java,data scientist,2026-05-09 14:44:50
+1000165913,Инженер по автоматизации тестирования java,Банк России,Томск,False,,"Функциональное тестирование, Java, Apache Maven, Junit, Selenium, Автоматизация тестирования",data scientist,2026-05-09 14:44:50
+1000165998,Специалист по инфраструктуре машинного обучения (MLOps-инженер ),ГАЗИНФОРМСЕРВИС,Санкт-Петербург,False,,"DevOps, Docker, Git, ClickHouse, Kubernetes",data scientist,2026-05-09 14:44:50
+1000166108,Менеджер AI проектов,АстраЗенека,Москва,False,,"Ведение переговоров, Управление проектами, Проектное планирование",data scientist,2026-05-09 14:44:50
+1000165981,Solution Architect,АстраЗенека,Москва,True,,"Docker, PostgreSQL, Redis, Kubernetes, REST",data scientist,2026-05-09 14:44:50
+1000166385,Android Developer,Okko,Москва,False,,"Android SDK, Kotlin",data scientist,2026-05-09 14:44:50
+1000166366,Ведущий Java-разработчик,М Тех,Не указан,True,,"Java, Spring Boot, PostgreSQL, SQL, ClickHouse, Micronaut",data scientist,2026-05-09 14:44:50
+1000164588,IT Бизнес-аналитик,АстраЗенека,Москва,False,,"Бизнес аналитика, Системный анализ, UML, BPMN, Техническая документация",data scientist,2026-05-09 14:44:50
+1000165424,Ведущий разработчик / техлид WebRTC,Яндекс,Белград,True,,"WebRTC, Realtime",data scientist,2026-05-09 14:44:50
+1000164586,Архитектор BPMSoft,АстраЗенека,Москва,False,,"GitLab, Docker, Kubernetes, UML",data scientist,2026-05-09 14:44:50
+1000166273,MLSecOps,ГНИВЦ,Москва,False,,"Linux, Docker, Kubernetes, Python, CI/CD",data scientist,2026-05-09 14:44:50
+1000166282,ML-инженер,ГНИВЦ,Москва,False,,"Git, PostgreSQL, Python",data scientist,2026-05-09 14:44:50
+1000166223,Системный инженер C/С++ в команду Storage Core SPDK [MWS Cloud Platform],МТС Web Services,Москва,True,,"C++, C, NVM Express protocol",data scientist,2026-05-09 14:44:50
+1000166238,Ведущий операционный менеджер в сервис BareMetal,Яндекс,Санкт-Петербург,False,,"Linux, Администрирование серверов, Управление проектами, Управление людьми",data scientist,2026-05-09 14:44:50
+1000165596,Security analyst (hardware security),Лаборатория Касперского,Не указан,True,,Информационная безопасность,data analyst,2026-05-09 14:44:53
+1000164660,Cистемный аналитик / System analyst (инвестиционный бизнес),ИТ-Холдинг Т1,Екатеринбург,True,,"SQL, Apache Kafka, XML, JSON, PostgreSQL",data analyst,2026-05-09 14:44:53
+1000166228,Head of Engineering,AlemX,Не указан,True,от 400 000 до 450 000 ₽,"CI/CD, Git, Английский язык, Управление проектами, Docker, Node.js, TypeScript, React Native, Agile, Scrum",data engineer,2026-05-09 14:44:56
+1000165572,ML Engineer (NLP),Банк России,Москва,False,,"NLP, Docker, R, Apache Hadoop, Apache Airflow, Prometheus, SQL, Python",data engineer,2026-05-09 14:44:56
+1000165373,Go Platform Engineer,VK,Не указан,True,,Golang,data engineer,2026-05-09 14:44:56
+1000166248,AI Automation Engineer,Boomerangme 🎫,Не указан,True,от 4000 до 6000 $,"n8n, Python, FastAPI, GPT, LLM, Создание чат-ботов",data engineer,2026-05-09 14:44:58
+1000153542,Reverse engineer,deeplay,Москва,True,,"Linux, Frida, Ghidra, Wireshark",data engineer,2026-05-09 14:44:58
+1000166382,Fullstack Software Engineer,Tinkers,Не указан,True,от 3000 до 4000 $,"Git, PostgreSQL, Docker, React, JavaScript, TypeScript, Redis, NestJS",data engineer,2026-05-09 14:44:58
+1000163599,QA Engineer Fullstack (Java/Kotlin),SimbirSoft,Не указан,True,,"Java, Kotlin, Junit, TestNG, REST Assured, Selenide, Selenium, SQL",data engineer,2026-05-09 14:44:58
+1000164602,LEAD AI/ML ENGINEER,Selecty,Москва,False,от 400 000 ₽,"Python, GPT, LLM, Компьютерное зрение, FastAPI, PostgreSQL, Redis, Kubernetes, Yandex.Cloud, WebSockets",data engineer,2026-05-09 14:44:58
+1000166277,Storage Engineer,ЛАНИТ,Не указан,True,,"Системы виртуализации, NetBackup",data engineer,2026-05-09 14:44:58
+1000166007,SRE Engineer,Банк России,Москва,False,,"Linux, Zabbix, Prometheus, Python, Bash, Powershell, Splunk, ELK Stack, Grafana, SQL",data engineer,2026-05-09 14:44:58
+1000166331,Senior AI Platform Engineer / LLMOps Engineer / Tech Lead,ПСМ Unlim,Ярославль,True,от 300 000 ₽,"Scada, АСУ ТП, Docker, Python, Redis, Apache Kafka, Kubernetes, LLM, Микросервисная архитектура, Управление людьми",data engineer,2026-05-09 14:44:58
+1000166365,Linux System Engineer,BSS,Не указан,True,,Linux,data engineer,2026-05-09 14:44:58
+1000165156,Senior Computer Vision Engineer,Анонимный работодатель,Санкт-Петербург,False,,"FPGA, OpenCV, C++, C",data engineer,2026-05-09 14:44:58
+1000166286,"QA Engineer (Спб, офис)",Bell Integrator,Санкт-Петербург,False,,"SQL, Ручное тестирование",data engineer,2026-05-09 14:44:58
+1000166311,QA Engineer (Manual → AQA),Adfinity,Не указан,True,от 150 000 ₽,"Python, Docker, REST, Bash, Linux, Базы данных, Git, Web Object Framework, Playwright, Postman",data engineer,2026-05-09 14:44:58
+1000163035,Devops-engineer (middle/middle+),IRLIX,Не указан,True,,"Docker, Kubernetes, CI/CD, Linux, Сетевые технологии, Bash, ClickHouse, PostgreSQL, Prometheus",data engineer,2026-05-09 14:44:58
+1000162432,MLOps Engineer [Trust and Safety],Wildberries & Russ,Москва,True,,"Kubernetes, Docker, CI/CD",data engineer,2026-05-09 14:44:58
+1000166213,AI Automation/AI Systems Integrator (AI Automation Engineer/LLM Systems Engineer,"Автосалон ""First class""",Москва,False,,"LLM, OpenAPI Specification, GPT, RESTful API, Docker, Внедрение CRM, Разработка решений по интеграции, JSON",data engineer,2026-05-09 14:44:58
+1000166170,Senior QA Automation Engineer (Python),2GIS,Москва,True,,"Python, Автоматизация тестирования, Langgraph, LLM",data engineer,2026-05-09 14:44:58
+1000157520,Senior Site Reliability Engineer (SRE),TravelLine,Казань,True,,"Zabbix, Grafana, Prometheus, Ansible, Мониторинг, Shell scripting, SRE",data engineer,2026-05-09 14:45:01
+1000165161,ML Engineer / Инженер машинного обучения,Анонимный работодатель,Санкт-Петербург,False,,"Linux, TensorFlow, GitHub, PostgreSQL, Python, NumPy, PyTorch",data engineer,2026-05-09 14:45:01
+1000162808,Application Security Engineer (безопасность приложений),ПСБ цифровая лаборатория,Москва,False,,Информационная безопасность,data engineer,2026-05-09 14:45:01
+1000164814,Инженер по тестированию / QA engineer (Виртуализация),МТ-Интеграция,Москва,True,,"Openstack, Linux, Python",data engineer,2026-05-09 14:45:01
+1000164815,Инженер по тестированию / QA engineer (Linux),МТ-Интеграция,Москва,True,,"Linux, Python, Perl, Виртуализация",data engineer,2026-05-09 14:45:01
+1000149891,QA Engineer (Unified Communications (UC)),Eltex,Новосибирск,False,,"Linux, Python, Docker, VoIP, SIP, TCP",data engineer,2026-05-09 14:45:01
+1000146318,QA Engineer Mobile fullstack (Java),Альфа-Банк,Не указан,True,,"Java, PostgreSQL, Apache Kafka, SOAP, Selenide, Selenium, Тестирование API, Appium, REST Assured",data engineer,2026-05-09 14:45:01
+1000133845,Middle/Middle+ SRE Engineer (Дальний Восток),TravelLine,Хабаровск,True,,"Powershell, Python, Jenkins, Kubernetes, CI/CD, Zabbix, Grafana, ELK Stack",data engineer,2026-05-09 14:45:01
+1000166174,DevOps - инженер | Dev Ops engineer,Hireway,Не указан,True,от 70 000 до 100 000 ₽,DevOps,data engineer,2026-05-09 14:45:01
+1000166269,Senior Rendering engineer C++ в 3D Карту,2GIS,Не указан,True,,"OpenGL, DirectX, C++",data engineer,2026-05-09 14:45:01
+1000166161,QA Engineer (Next.js + NestJS),Fincasemarket,Не указан,True,от 200 000 ₽,"NestJS, Next.js, REST, CI/CD, Docker, PostgreSQL, Playwright, GitLab, Автоматизация тестирования, TypeScript",data engineer,2026-05-09 14:45:01
+1000166319,DevOps Engineer/DevOps-инженер,ZennoLab,Нижний Новгород,False,от 150 000 ₽,"Linux, Docker, Kubernetes, CI/CD, GitLab, DevOps, Apache Kafka, Redis",data engineer,2026-05-09 14:45:01
+1000156020,QA Automation Engineer (JavaScript/TypeScript),X5 Digital,Москва,False,,"Node.js, REST, JavaScript, Модульное тестирование, HTTP, JSON",data engineer,2026-05-09 14:45:01
+1000166116,Junior AI Automation Engineer / AI-инженер (junior),OPENCITY,Нижний Новгород,True,от 50 000 ₽,"LLM, Python, Тестирование API, Langgraph, Разработка решений по интеграции, GPT, Автоматизация процессов, Прототипирование, Организация работы с CRM",data engineer,2026-05-09 14:45:01
+1000166336,VibeCoder / Platform Engineer (Node.js / Kubernetes),Fabrique,Москва,True,,"Git, Docker, PostgreSQL, Node.js, Kubernetes, CI/CD",data engineer,2026-05-09 14:45:01
+1000164871,Сетевой инженер Huawei,ИТ-компания «Лоция»,Москва,False,,"Настройка VPN, Администрирование сетей, Администрирование оборудования Cisco",data engineer,2026-05-09 14:45:01
+1000166162,DSP/Embedded Software Engineer (R&D) в Умные устройства,Яндекс,Санкт-Петербург,False,,"Цифровой сигнальный процессор, C, Embedded linux",data engineer,2026-05-09 14:45:01
+1000166380,Founding Full-Stack Engineer (React / React Native / Node.js),"ООО ""Стримрекорд""",Москва,True,,"React, React Native, Node.js, Google Firebase, Разработка мобильных приложений, GPT, GraphQL, REST, Web 3.0, Создание telegram-ботов",data engineer,2026-05-09 14:45:01
+1000163190,Руководитель направления SRE,Cloud.ru,Москва,True,,SQL,data engineer,2026-05-09 14:45:01
+1000165418,Системный инженер Microsoft,Яндекс,Минск,True,,Hyper-V,data engineer,2026-05-09 14:45:01
+1000153848,QA инженер (Linux),Marfatech,Москва,True,,"Linux, REST, SQL",data engineer,2026-05-09 14:45:01
+1000166253,QA - FullStack (TypeScript + Playwright),М Тех,Москва,True,,"TypeScript, Playwright",data engineer,2026-05-09 14:45:01
+1000166190,Chief Technology Officer (CTO),GETCASH,Новосибирск,True,,"PHP, PCI DSS, DevOps, CI/CD, MySQL, Программная инженерия, Разработка программного обеспечения, Разработка CRM, Внедрение CRM",data engineer,2026-05-09 14:45:03
+1000161288,Application Security Architecture Team (Кибербезопасность),Wildberries & Russ,Санкт-Петербург,True,,Информационная безопасность,data engineer,2026-05-09 14:45:03
+1000166262,Fullstack QA (Mobile + Load),М Тех,Москва,True,,"Kotlin, Docker, Java, Нагрузочное тестирование, Apache JMeter",data engineer,2026-05-09 14:45:03
+1000166231,Python developer,ITK academy,Краснодар,True,от 220 000 до 300 000 ₽,"Python, PostgreSQL, Docker, Apache Kafka, CI/CD, FastAPI, RabbitMQ, Kubernetes, Redis, Asyncio",python developer,2026-05-09 14:45:08
+1000163346,Python Developer,ITK academy,Краснодар,True,от 75 000 ₽,"Git, SQL, Python, ООП, Docker, Django, FastAPI, PostgreSQL",python developer,2026-05-09 14:45:08
+1000165410,Python Developer / SDET (сетевое оборудование),ЛАНИТ,Не указан,True,,"Python, TCP, Pytest, Bash, Сетевые технологии, Linux, Docker, Asyncio, SQLalchemy, CI/CD",python developer,2026-05-09 14:45:08
+1000166009,Senior Python Developer,Bell Integrator,Минск,True,,"Python, Apache Kafka, RabbitMQ",python developer,2026-05-09 14:45:08
+1000165568,Python разработчик,ГНИВЦ,Москва,True,,"Openstack, Asyncio, SQLalchemy, Linux, PostgreSQL, FastAPI, Python, Виртуализация, KVM, TCP",python developer,2026-05-09 14:45:08
+1000165251,Python-разработчик,ИТ-компания «Лоция»,Москва,True,,Python,python developer,2026-05-09 14:45:08
+1000164426,Разработчик бэкенда (Python/Django) в команду развития сотрудников,Яндекс,Екатеринбург,False,,"Python, PostgreSQL, Django, Celery, Redis",python developer,2026-05-09 14:45:08
+1000166290,"Старший инженер по автоматизации тестирования (Python, финтех)/ Senior AQA",Хайтек,Не указан,True,,"Автоматизация тестирования, Python, Selenium, Playwright, Тестирование API, CI/CD, Нагрузочное тестирование, Apache JMeter",python developer,2026-05-09 14:45:08
+1000165851,Python-разработчик в ML,Koronatech,Томск,True,,"Python, CI/CD, SQL, NoSQL, Kubernetes, Git-Flow",python developer,2026-05-09 14:45:08
+1000165525,Java Team Lead / Lead Developer,Okko,Санкт-Петербург,True,,"Java, PostgreSQL",python developer,2026-05-09 14:45:08
+1000164646,С++ Developer,Eltex,Новосибирск,False,,"C++, Linux",python developer,2026-05-09 14:45:08
+1000166198,"Программист backend Python, Django middle +",Главгосэкспертиза России,Москва,False,,"Python, Django, PostgreSQL, Docker, Git, Pytest, Linux",python developer,2026-05-09 14:45:08
+1000166100,ML инженер,Экстил,Не указан,True,,"Python, Scikit-learn, PyTorch, SQL",python developer,2026-05-09 14:45:08
+1000159590,Tech Lead Python (IaaS/PaaS),ГНИВЦ,Москва,True,,"KVM, SQL, Виртуализация, Python, PostgreSQL, SQLalchemy, FastAPI, Linux, Высоконагруженные системы, Openstack",python developer,2026-05-09 14:45:08
+1000166308,Разработчик MLOps (Python),Action tech,Москва,True,,"Python, PHP, Linux, Git, Docker",python developer,2026-05-09 14:45:08
+1000166247,Backend Developer (Laravel),Creative Code,Не указан,True,,"Laravel, ClickHouse, AWS, Golang",python developer,2026-05-09 14:45:08
+1000166129,Senior Backend Developer,Outreach Today,Не указан,True,от 7000 до 10 000 $,"JavaScript, TypeScript, Node.js, Golang, Python, FastAPI, PostgreSQL",python developer,2026-05-09 14:45:08
+1000166280,C++ red team developer,СПЕЦПО,Санкт-Петербург,True,от 230 000 до 350 000 ₽,"C#, C++, C, Assembler, LLVM, Powershell",python developer,2026-05-09 14:45:08
+1000165613,Golang developer,Открытая мобильная платформа,Нижний Новгород,True,,Golang,python developer,2026-05-09 14:45:08
+1000166226,Fullstack Developer (MERN / NestJS),Creative Code,Не указан,True,,"Node.js, React, Next.js, TDD/BDD, DDD",python developer,2026-05-09 14:45:08
+1000162093,Middle/Senior Golang Developer,Cloud.ru,Не указан,True,,"Golang, Kubernetes, Python, Linux",python developer,2026-05-09 14:45:10
+1000139801,Java Developer,ИТРУМ,Ростов-на-Дону,True,от 75 000 ₽,"Git, Java, Spring Boot, Docker",python developer,2026-05-09 14:45:10
+1000165789,ML-инженер (Направление клиентского сервиса),Wildberries & Russ,Не указан,True,,"NLP, TTS",python developer,2026-05-09 14:45:10
+1000165261,Java Developer,ИТ-компания «Лоция»,Москва,True,,"Java, Gradle, Apache Kafka, Java Spring Framework, Spring Boot",python developer,2026-05-09 14:45:10
+1000166285,Middle Java Developer,ИТРУМ,Ростов-на-Дону,False,от 150 000 ₽,"Git, Java, PostgreSQL, Docker, REST, MySQL, MongoDB, Redis, Английский язык",python developer,2026-05-09 14:45:10
+1000166164,Python-инженер в SaaS про AI для CAD/CAM,DigiFabster,Не указан,True,от 2400 до 4000 $,"Python, Машинное обучение, Нейронные сети, Система автоматизированного проектирования, SQL, Docker, Английский язык",python developer,2026-05-09 14:45:10
+1000166180,Go Developer,ITK academy,Казань,True,от 75 000 до 125 000 ₽,"SQL, MySQL, PostgreSQL, Golang, RESTful API, HTTP, TCP, Базы данных",python developer,2026-05-09 14:45:10
+1000166151,Vue 3 Frontend Developer,Carbogatto,Не указан,True,от 100 000 до 250 000 ₽,"Vue.js, TypeScript, Vite, Маршрутизация, RESTful API, CSS, Git, Адаптивная верстка",python developer,2026-05-09 14:45:10
+1000166112,Ведущий разработчик машинного обучения,БЮРО 1440,Москва,True,,"Deep Learning, Pandas, Python",python developer,2026-05-09 14:45:10
+1000165221,Shader Developer,Clideo,Не указан,True,,"JavaScript, Vue.js",python developer,2026-05-09 14:45:10
+1000166152,Full Stack Developer,ONTHELION,Москва,True,,"Python, REST, Docker, Kubernetes, Java, Английский язык, Алгоритмы и структуры данных, Linux, PostgreSQL",python developer,2026-05-09 14:45:10
+1000166154,Team Lead (Ecom),GRI,Москва,False,,"FastAPI, Django, Python, Agile, Golang, Scrum, Vue.js, Mobile, Клиент-серверные приложения",python developer,2026-05-09 14:45:10
+1000164916,Developer C++ (KSMG),Лаборатория Касперского,Не указан,True,,"Разработка программного обеспечения, C++",python developer,2026-05-09 14:45:10
+1000164113,Системный разработчик С++ в команду основных компонентов,Navio,Москва,False,,"Python, C++, Linux",python developer,2026-05-09 14:45:10
+1000166245,Go Developer,ITK academy,Краснодар,True,от 250 000 ₽,"Git, Docker, Redis, CI/CD, Kubernetes, Golang, REST, Apache Kafka, gRPC, MongoDB",python developer,2026-05-09 14:45:10
+1000163076,Инженер кибербезопасности облака,Cloud.ru,Не указан,True,,AWS,python developer,2026-05-09 14:45:10
+1000163532,Golang Developer,Правое полушарие Интроверта,Не указан,True,от 200 000 до 300 000 ₽,"Golang, MongoDB, ClickHouse, PostgreSQL, Apache Kafka, Kubernetes",python developer,2026-05-09 14:45:10
+1000164875,Эксперт направления оценки соответствия требованиям ИБ (compliance),Банк России,Москва,False,,"Linux, SDL/SDLC, Python, Splunk",python developer,2026-05-09 14:45:10
+1000164910,Developer C++ (NTA),Лаборатория Касперского,Не указан,True,,"Разработка программного обеспечения, C++",python developer,2026-05-09 14:45:10
+1000133692,"Fullstack-разработчик (.Net core, React)",УК «Аэропорты Регионов»,Екатеринбург,True,,".NET Core, React, .NET",python developer,2026-05-09 14:45:10
+1000164447,"Backend Developer (PHP, Yii2)",Студворк,Самара,True,от 150 000 ₽,"PHP, Redis, PostgreSQL, Linux, RabbitMQ, Docker",python developer,2026-05-09 14:45:13
+1000127243,Android Developer (Platform Team),СберЗдоровье,Не указан,True,,"Разработка мобильных приложений, Kotlin, Coroutines, Flow, Android SDK, CI/CD",python developer,2026-05-09 14:45:13
+1000164843,iOS Developer,Bell Integrator,Екатеринбург,True,,"Разработка под iOS, Swift, SwiftUI",python developer,2026-05-09 14:45:13
+1000164513,C/C++ Developer,Eltex,Новосибирск,False,,"Linux, C, C++",python developer,2026-05-09 14:45:13
+1000166353,AI Bulider,ИП Даутова Дина Саитовна,Не указан,True,от 130 000 до 140 000 ₽,Базы данных,python developer,2026-05-09 14:45:13
+1000166092,Frontend developer (React.js),AЭРО,Москва,True,,"React, GraphQL, TypeScript, Git, Next.js, Apollo",python developer,2026-05-09 14:45:13
+1000165193,Android разработчик / Kotlin developer,Hireway,Не указан,True,от 120 000 до 180 000 ₽,"Kotlin, Git, Java, Android studio, Android SDK, Coroutines, CI/CD, Jetpack Compose, XML, SOLID",python developer,2026-05-09 14:45:13
+1000149857,C developer (ME),Eltex,Новосибирск,False,,"C, Linux",python developer,2026-05-09 14:45:13
+1000166163,"Backend Developer (PHP, Laravel)",Lenkep Recruitment,Москва,False,,Laravel,python developer,2026-05-09 14:45:13
+1000164325,Старший ML-разработчик агентов для Алисы,Яндекс,Москва,False,,"Deep Learning, NLP, LLM, PyTorch, Python",python developer,2026-05-09 14:45:13
+1000128046,Java-разработчик в Маркет,Яндекс,Нижний Новгород,False,от 180 000 до 350 000 ₽,"Java, Java Spring Framework",python developer,2026-05-09 14:45:13
+1000166397,NLP-разработчик в Браузер,Яндекс,Москва,False,,"Python, Docker, PyTorch, Deep Learning, NLP, LLM, Reinforcement learning",python developer,2026-05-09 14:45:13
+1000165249,Java разработчик с нуля (стажер),Aston,Москва,True,от 52 000 ₽,"Java, Hibernate, MySQL, PostgreSQL, Git, Java Spring Framework, ООП, SQL, Apache Kafka, Kubernetes",python developer,2026-05-09 14:45:13
+1000166049,Frontend Developer (Vue.js) Middle / Senior,UPBEAT SOFT,Не указан,True,от 150 000 до 300 000 ₽,"JavaScript, Vue.js, REST, GitLab, TypeScript, Сетевые технологии",python developer,2026-05-09 14:45:13
+1000164694,Scala Developer,МегаФон,Москва,True,,"Scala, Apache Spark, Java, Akka, Spring Boot, gRPC, RabbitMQ, Kubernetes, MongoDB",python developer,2026-05-09 14:45:13
+1000164770,Scala Developer,МегаФон,Москва,True,,"Scala, Java, Apache Kafka, RabbitMQ",python developer,2026-05-09 14:45:13
+1000164074,Инженер по обеспечению качества,Сонерик,Москва,True,,"Тестирование ПО, Python, ООП, Pytest, Git, Нагрузочное тестирование, Docker, Kubernetes, Linux, CI/CD",python developer,2026-05-09 14:45:13
+1000166220,Разработчик Bitrix 24,МосТабак,Москва,False,,"SQL, PHP, PostgreSQL, HTML, Vue.js",python developer,2026-05-09 14:45:13
+1000166254,Инженер по автоматизированному тестированию / AQA (Java / Kotlin),М Тех,Москва,True,,"Java, Kotlin",python developer,2026-05-09 14:45:13
+1000166296,MLOps-инженер,М Тех,Москва,True,,"Kubernetes, Apache Airflow, Linux, Python",python developer,2026-05-09 14:45:16
+1000166257,Тестировщик-автоматизатор (AQA),Fusion Tech,Не указан,True,,"Тестирование API, Java, Junit, SQL, ООП, Postman, JSON",python developer,2026-05-09 14:45:16
+1000165184,Developer C++ (KESL),Лаборатория Касперского,Не указан,True,,"Разработка программного обеспечения, C++",python developer,2026-05-09 14:45:16
+1000164911,Research Developer (Windows),Лаборатория Касперского,Не указан,True,,"Разработка программного обеспечения, C++",python developer,2026-05-09 14:45:16
+1000078847,Middle+ IOS developer,IRLIX,Не указан,True,,"Разработка мобильных приложений, Разработка под iOS, UIKit, Clean Architecture, CI/CD",python developer,2026-05-09 14:45:16
+1000159295,C developer (MES),Eltex,Новосибирск,False,,"Linux, Git, C",python developer,2026-05-09 14:45:16
+1000149993,Erlang/Elixir developer,Eltex,Новосибирск,False,,"Erlang, NoSQL, SQL, Linux, Docker, Elixir, VoIP",python developer,2026-05-09 14:45:16
+1000164714,Golang developer (Рассрочки),Wildberries & Russ,Москва,True,,"PostgreSQL, Linux, Kubernetes, Golang, Redis, Docker, Apache Kafka",python developer,2026-05-09 14:45:16
+1000166401,Senior Java Developer,Arenadata,Не указан,True,,"Java, Spring Boot, PostgreSQL, Базы данных, Apache Maven, Docker, Git, Linux, Высоконагруженные системы",python developer,2026-05-09 14:45:16
+1000156172,Разработчик в буткемп Core Infrastructure,Яндекс,Новосибирск,True,от 300 000 до 490 000 ₽,"Python, C++, Golang, Алгоритмы и структуры данных",python developer,2026-05-09 14:45:16
+1000163088,Automation QA (Storage S3),Cloud.ru,Не указан,True,,"Python, Linux, Pytest",python developer,2026-05-09 14:45:16
+1000164434,Разработчик бэкенда в Яндекс Образование,Яндекс,Минск,False,,"Python, Golang, MongoDB, PostgreSQL",python developer,2026-05-09 14:45:16
+1000164618,Middle+ Java Backend Developer,IRLIX,Не указан,True,,Java,python developer,2026-05-09 14:45:16
+1000161258,Java Developer eFX,ИТ-Холдинг Т1,Ижевск,False,,"ООП, Java",python developer,2026-05-09 14:45:16
+1000164745,Golang developer в Департамент Логистики,Wildberries & Russ,Москва,True,,Golang,python developer,2026-05-09 14:45:16
+1000157044,Специалист по анализу защищенности (pentest),Золотое Яблоко,Екатеринбург,False,,"SQL, Python, PostgreSQL, Django, OWASP, Burp Suite",python developer,2026-05-09 14:45:16
+1000165284,ML Разработчик [Java],deeplay,Москва,False,,"Java, Git",python developer,2026-05-09 14:45:16
+1000164864,ML Разработчик [Java],deeplay,Новосибирск,True,,Java,python developer,2026-05-09 14:45:16
+1000166320,Инженер-интегратор робототехнических систем,IT-hunter,Москва,False,,"STM32, Python, C++, Linux",python developer,2026-05-09 14:45:16
+1000166145,Бизнес-партнер по ИБ,Spice IT,Не указан,True,,"SAST/DAST, Информационная безопасность",python developer,2026-05-09 14:45:19
+1000164844,Инженер по глубокому обучению в команду нейросетевого планировщика траектории,Navio,Москва,False,,"Python, C++, Алгоритмы и структуры данных, Оптимизация кода, Машинное обучение, Нейронные сети, PyTorch, TensorFlow, Reinforcement learning, Deep Learning",python developer,2026-05-09 14:45:19
+1000165597,Technical Training Developer (SIEM/XDR),Лаборатория Касперского,Не указан,True,,Информационная безопасность,python developer,2026-05-09 14:45:19
+1000165218,Аналитик SOC | Специалист 2 линии SOC,Анонимный работодатель,Новосибирск,True,,"Информационная безопасность, SIEM",python developer,2026-05-09 14:45:19
+1000164921,PHP-разработчик,Остров Сокровищ,Не указан,True,от 15 000 до 250 000 ₽,"Linux, PHP, Laravel, Symfony, MySQL, ООП, Java Spring Framework, Git, Docker, Английский язык",python developer,2026-05-09 14:45:19
+1000165742,Разработчик Ruby On Rail-Senior (Fullstack),AUROSPACE Holding,Санкт-Петербург,True,от 5000 до 15 000 $,"Ruby, RESTful API, React, Ruby on Rails, PostgreSQL, Redis, SQL, ClickHouse",python developer,2026-05-09 14:45:19
+1000166387,Unity-разработчик (WebGL),Empire's Battle,Не указан,True,,"C#, ООП, Алгоритмы и структуры данных, REST",python developer,2026-05-09 14:45:19
+1000166120,Aдминистратор баз данных PostgreSQL,Ренессанс Жизнь,Москва,True,,"Python, PostgreSQL, SQL, Bash, Linux, Базы данных",python developer,2026-05-09 14:45:19
+1000164876,Консультант по направлению анализа защищённости (Vulnerability Management),Банк России,Москва,False,,"Linux, Python",python developer,2026-05-09 14:45:19
+1000161662,QA Manual,Wildberries & Russ,Москва,True,,"Postman, YouTrack, Charles, Тестирование API, Ручное тестирование, Баг-трекинг, Swagger",python developer,2026-05-09 14:45:19
+1000164812,Старший DevOps-инженер (Openstack),МТ-Интеграция,Москва,True,,"Openstack, GitLab, Linux, Ansible, Python, CI/CD",python developer,2026-05-09 14:45:19
+1000164486,Главный специалист управления уязвимостями (SOC VM),ИТ-компания «Лоция»,Москва,False,,"SIEM, Анализ угроз, Защита информации",python developer,2026-05-09 14:45:19
+1000165716,Аналитик данных (финансовое направление),TravelLine,Казань,True,,"SQL, Python, Математическая статистика, PowerBI, Microsoft Excel, Анализ данных, Визуализация",python developer,2026-05-09 14:45:19
+1000166339,Angular-разработчик,Граффинтех,Не указан,True,,"Angular, TypeScript, REST, JSON, OpenAPI Specification, CSS, SCSS, Docker",python developer,2026-05-09 14:45:19
+1000159384,Разработчик 1С / Специалист по интеграции (Мегаплан + 1С),Мегаплан,Москва,True,от 100 000 ₽,"Администрирование 1С, RESTful API, HTTP, Разработка под 1С, XML",python developer,2026-05-09 14:45:19
+1000166244,Team Lead автоматизации тестирования (SDET),ИнфоТеКС,Санкт-Петербург,False,,"Python, Pytest, Docker, Git, TeamCity",python developer,2026-05-09 14:45:21
+1000164806,Руководитель команды разработки / TechLead,МТ-Интеграция,Москва,False,,"Python, Golang",python developer,2026-05-09 14:45:21
+1000165037,Старший аналитик,Анонимный работодатель,Санкт-Петербург,False,,"Python, Алгоритмы и структуры данных, Базы данных",python developer,2026-05-09 14:45:21
+1000166107,Программист-математик,БЮРО 1440,Не указан,True,,"Python, Matlab, Прикладная математика, Алгоритмы и структуры данных, Математика, Оптимизация кода",python developer,2026-05-09 14:45:21
+1000147159,AppSeс - инженер,Банк России,Казань,False,,"Python, DevSecOps, SAST/DAST, Java, Баг-трекинг, OWASP",python developer,2026-05-09 14:45:21
+1000166362,Продуктовый аналитик  (геймдев),HappyGames Studio,Не указан,True,от 150 000 ₽,"SQL, Python, BI, Математическая статистика, Tableau",python developer,2026-05-09 14:45:21
+1000161037,Ведущий инженер L3,Cloud.ru,Москва,False,,"Osi model, TCP, Bash, Python, Linux, Terraform, Ansible",python developer,2026-05-09 14:45:21
+1000166246,DevOps-инженер,OPENCITY,Не указан,True,от 50 000 ₽,"Git, Docker, Linux, Kubernetes, CI/CD, GitHub Actions, Nginx, Python, Bash, Grafana",python developer,2026-05-09 14:45:21
+1000166242,Lead Rust,М Тех,Москва,True,,"Python, PostgreSQL, Apache Kafka, CI/CD, Redis, Kubernetes, Rust",python developer,2026-05-09 14:45:21
+1000166186,B2B Sales Manager,Yavvi AI,Не указан,True,,"Ведение переговоров, Мониторинг и анализ рынка, Презентации",python developer,2026-05-09 14:45:21
+1000164788,Системный аналитик,Передовые Платежные Решения,Москва,False,,"REST, RESTful API",python developer,2026-05-09 14:45:21
+1000165871,Специалист по защите информации (тестирование),ГАЗИНФОРМСЕРВИС,Санкт-Петербург,False,,"C#, C++, C, Python, Java, Linux",python developer,2026-05-09 14:45:21
+1000165408,Сетевой инженер (ethernet-коммутаторы),ЛАНИТ,Не указан,True,,"Администрирование сетей, Администрирование оборудования Cisco, Сетевые технологии, Cisco CCNA, CCNA, Cisco CCNP, Linux, Python, Bash",python developer,2026-05-09 14:45:21
+1000165216,Менеджер продукта,Анонимный работодатель,Москва,True,,"SQL, Python, Agile",python developer,2026-05-09 14:45:21
+1000165592,"Продуктовый аналитик (только офис, Владивосток)",Фарпост,Владивосток,False,,"MySQL, Python, A/B тестирование, ClickHouse, Metabase, Математическая статистика, Pandas, NumPy, Apache Superset",python developer,2026-05-09 14:45:21
+1000165353,Аналитик сетевой безопасности,Совкомбанк Технологии,Саратов,False,,"OSPF, Настройка VPN, SQL, Python, BGP, Powershell",python developer,2026-05-09 14:45:23
+1000165619,Сетевой инженер,Автоматизация розничных технологий,Ульяновск,False,от 175 000 до 200 000 ₽,"Zabbix, Docker, VMware, Python, Mikrotik",python developer,2026-05-09 14:45:23
+1000161260,Java (Т-банк),ИТ-Холдинг Т1,Екатеринбург,True,,Java,python developer,2026-05-09 14:45:23
+1000163189,Инженер техподдержки L2,Cloud.ru,Москва,True,,SQL,python developer,2026-05-09 14:45:23
+1000164295,Руководитель группы разработки Sandbox в DevTools,Яндекс,Санкт-Петербург,False,,"Python, Управление людьми, Управление проектами",python developer,2026-05-09 14:45:23
+1000166335,Специалист по сертификационным испытаниям (ФСТЭК),ИнфоТеКС,Пенза,False,,"C, C++, Python, Java, C#, JavaScript, Golang, Проведение исследований",python developer,2026-05-09 14:45:23
+1000166209,Appsec,IT_One,Не указан,True,,"OWASP, SAST/DAST, Docker, CI/CD, gRPC",python developer,2026-05-09 14:45:23
+1000165990,Программист C++ (Qt),Uniscan Research,Новосибирск,False,от 140 000 до 200 000 ₽,"Linux, Qt, C++",python developer,2026-05-09 14:45:23
+1000164330,Архитектор,Fix Price,Москва,True,,"PHP, ООП, Базы данных, Высоконагруженные системы",python developer,2026-05-09 14:45:23
+1000164856,Старший LLM-разработчик в сервис Нейроюрист,Яндекс,Москва,True,,"Python, NLP, LLM, Langgraph",python developer,2026-05-09 14:45:23
+1000160479,Reverse-инженер,deeplay,Казань,True,,"Обратная разработка, C#, Python, Frida",python developer,2026-05-09 14:45:23
+1000163830,Руководитель группы разработки Автосборки в DevTools,Яндекс,Санкт-Петербург,False,,"Python, C++, Управление людьми, CI/CD",python developer,2026-05-09 14:45:23
+1000166314,Dev Team Lead/ Tech Lead/ Технический директор,UANT Limited,Не указан,True,от 500 000 до 1 000 000 ₽,"Python, TypeScript, Node.js, Next.js, React, PostgreSQL, Kubernetes, Docker, MongoDB, GraphQL",python developer,2026-05-09 14:45:23
+1000163829,Разработчик на Java в команду B2B-платформы Яндекс 360,Яндекс,Санкт-Петербург,True,,"Java, PostgreSQL",python developer,2026-05-09 14:45:23
+1000161071,ИТ Лид команды разработки (java),ИТ-Холдинг Т1,Нижний Новгород,True,,"Java, Управление людьми, Управление разработкой, Планирование, Построение команды, Ведение переговоров, Организация бизнес-процессов, Apache Kafka, PostgreSQL",python developer,2026-05-09 14:45:23
+1000166278,Старший инженер AppSec,WMX,Москва,False,,Linux,python developer,2026-05-09 14:45:23
+1000163215,DevSecOps инженер (DevOps),ИТ-компания «Лоция»,Москва,True,,Linux,python developer,2026-05-09 14:45:23
+1000159161,Тимлид сетевого отдела,Группа Астра,Москва,True,,"Защита от DDOS, Разработка систем защиты информации",python developer,2026-05-09 14:45:23
+1000166326,"Fullstack-разработчик (Go, Java, React)",МегаФон,Москва,True,,"React, Golang, Java",python developer,2026-05-09 14:45:23
+1000166379,QA Automation / SDET [TypeScript],"Спортс""",Не указан,True,,"TypeScript, Playwright, CI/CD, Docker, SQL",python developer,2026-05-09 14:45:25
+1000166261,Программист C++ (NGFW),ИнфоТеКС,Уфа,False,,"Linux, NGFW, C++",python developer,2026-05-09 14:45:25
+1000165292,Системный инженер (SIEM),ЛАНИТ,Не указан,True,,"Linux, Администрирование Windows, SIEM, Безопасность сетей, Active directory, Информационная безопасность, DNS, DHCP, IDS, SQL",python developer,2026-05-09 14:45:25
+1000165330,DevSecOps специалист,Совкомбанк Технологии,Новосибирск,False,,"CI/CD, DevSecOps, Информационная безопасность",python developer,2026-05-09 14:45:25
+1000165964,Инженер внедрения систем мониторинга ИБ,ГАЗИНФОРМСЕРВИС,Санкт-Петербург,False,,"NGFW, Linux, SIEM, SQL, Active directory, DHCP, DNS",python developer,2026-05-09 14:45:25
+1000165802,Разработчик C++,SimbirSoft,Не указан,True,,"C++, Linux",python developer,2026-05-09 14:45:25
+1000166172,Senior CV разработчик,2GIS,Москва,True,,"Компьютерное зрение, Deep Learning, PyTorch, Computer Science",python developer,2026-05-09 14:45:25
+1000163567,SDET Java,SimbirSoft,Не указан,True,,"Java, Spring Boot, Junit, Selenium",python developer,2026-05-09 14:45:25
+1000129519,Разработчик C# (.NET),Action tech,Не указан,True,,"Microsoft SQL, ООП, Entity framework, RabbitMQ, .NET, ASP.NET, PostgreSQL, Apache Kafka, .NET Core",python developer,2026-05-09 14:45:25
+1000161573,Стажер java разработчик,Банк России,Томск,False,,"Java, Java Spring Framework",python developer,2026-05-09 14:45:25
+1000161187,Java разработчик,ИТ-Холдинг Т1,Новосибирск,True,,"Java, Java Spring Framework, Spring Boot, Apache Kafka, PostgreSQL, Docker, Kubernetes",python developer,2026-05-09 14:45:25
+1000160764,Продуктовый аналитик (Рекомендации в Поиск),Wildberries & Russ,Москва,True,,"SQL, PostgreSQL, Python, ClickHouse, Greenplum, NumPy, Pandas",python developer,2026-05-09 14:45:25
+1000162421,Аналитик данных (Внутренний контроль),Wildberries & Russ,Москва,False,,"Python, SQL, PostgreSQL, ClickHouse, Apache Superset, Greenplum, Metabase, DWH",python developer,2026-05-09 14:45:25
+1000166156,Разработчик рантайма в Алису,Яндекс,Москва,False,,"C++, Python",python developer,2026-05-09 14:45:25
+1000165890,Разработчик на С++ в группу пешеходной и транспортной навигации,Яндекс,Нижний Новгород,False,,"C++, Python",python developer,2026-05-09 14:45:25
+1000157732,Продуктовый аналитик (Департамент Медиа | ADS),Wildberries & Russ,Москва,True,,"SQL, Python, PostgreSQL, ClickHouse",python developer,2026-05-09 14:45:25
+1000147285,Automation QA (Java),IRLIX,Не указан,True,,"Git, Java, Selenium, RESTful API, Jenkins, SQL",python developer,2026-05-09 14:45:25
+1000166113,Системный аналитик (Единые системы управления),БЮРО 1440,Москва,True,,"UML, BPMN, ER-диаграммы, SQL",python developer,2026-05-09 14:45:28
+1000165859,Разработчик 1С ERP (ГПХ),ИТ-компания «Лоция»,Москва,True,,"1C: ERP, Разработка под 1С",python developer,2026-05-09 14:45:28
+1000161371,Системный аналитик,ИТ-Холдинг Т1,Москва,False,,Linux,python developer,2026-05-09 14:45:28
+1000165157,Web тестировщик (в офис),Анонимный работодатель,Санкт-Петербург,False,,"REST, TestRail, SQL, Selenium",python developer,2026-05-09 14:45:28
+1000156821,Системный аналитик,ИТ-Холдинг Т1,Не указан,True,,"SQL, REST, Apache Kafka, BPMN, UML, Системная аналитика, Системная интеграция",python developer,2026-05-09 14:45:28
+1000158318,Senior/Lead Frontend разработчик (React),РОСГОССТРАХ,Не указан,True,,"React, TypeScript, Webpack, MobX, Веб-разработка, Node.js, Кроссбраузерная верстка, Адаптивная верстка, Redux",python developer,2026-05-09 14:45:28
+1000161239,Системный аналитик НОБО,ИТ-Холдинг Т1,Не указан,True,,"REST, SQL, PostgreSQL, SOAP, JSON, Apache Kafka",python developer,2026-05-09 14:45:28
+1000166393,Тестировщик ПО Manual QA,Unity Parent,Не указан,True,от 90 000 до 120 000 ₽,"Git, SQL, Базы данных, CI/CD, REST",python developer,2026-05-09 14:45:28
+1000166196,Ведущий системный аналитик,Лига Цифровой Экономики,Не указан,True,,"REST, RabbitMQ, Высоконагруженные системы, SQL, Apache Kafka, ООП, Модель C4, Системный анализ, Разработка решений по интеграции, Enterprise Service Bus",python developer,2026-05-09 14:45:28
+1000166252,Инженер по автотестированию на Java,М Тех,Москва,True,,Java,python developer,2026-05-09 14:45:28
+1000163521,DevOps-инженер,МегаФон,Москва,True,,"Kubernetes, Docker, Linux, PostgreSQL, CI/CD",python developer,2026-05-09 14:45:28
+1000166323,Программист Backend PHP на yii2 (Middle),Модимио,Ярославль,True,от 70 000 до 90 000 ₽,"MySQL, Git, JavaScript, SQL, Vue.js, PHP",python developer,2026-05-09 14:45:28
+1000166243,Lead React,М Тех,Москва,True,,"React, Redux, TypeScript",python developer,2026-05-09 14:45:28
+1000166138,Linux администратор Nginx/Apache,Spice IT,Москва,False,,"VMware, Linux, MySQL, Kubernetes, Apache, Nginx, Высоконагруженные системы",python developer,2026-05-09 14:45:28
+1000148160,PHP-разработчик,Гринсайт,Зеленоград,True,,"Redis, Laravel, PostgreSQL, Composer, MySQL, Linux, Git, PHP, Docker, GitHub",python developer,2026-05-09 14:45:28
+1000165214,Fullstack разработчик (PHP),Анонимный работодатель,Москва,True,,"Git, MySQL, JavaScript, SQL, Symfony, PHP, JQuery",python developer,2026-05-09 14:45:28
+1000166102,BI Разработчик,Экстил,Санкт-Петербург,False,,"ClickHouse, Qlik Sense, QlikView",python developer,2026-05-09 14:45:28
+1000166373,Тимлид команды автоматизированного тестирования (JS Playwright),Смарт Горизонт,Не указан,True,,"TypeScript, JavaScript, Playwright",python developer,2026-05-09 14:45:28
+1000165966,Специалист по разработке и эмуляции атак,ГАЗИНФОРМСЕРВИС,Санкт-Петербург,True,,"Linux, Виртуализация, Сетевая безопасность",python developer,2026-05-09 14:45:28
+1000166249,Pentester,СПЕЦПО,Санкт-Петербург,True,от 150 000 до 250 000 ₽,"Git, PostgreSQL, Linux, C++",python developer,2026-05-09 14:45:28
+1000166114,Старший разработчик пользовательских интерфейсов,БЮРО 1440,Москва,True,,"React, TypeScript, JavaScript, Next.js, CI/CD, Git",python developer,2026-05-09 14:45:28
+1000161198,Системный аналитик (со знанием кредитных процессов),ИТ-Холдинг Т1,Ростов-на-Дону,True,,"SQL, Java, Apache Kafka",python developer,2026-05-09 14:45:29
+1000161196,Системный аналитик (со знанием кредитных процессов (Junior)),ИТ-Холдинг Т1,Новосибирск,True,,"SQL, Java, Apache Kafka",python developer,2026-05-09 14:45:29
+1000166085,Прикладной администратор,ИТ-Холдинг Т1,Хабаровск,True,,"Docker, Linux, PostgreSQL, Grafana, Prometheus, Kubernetes, CI/CD, Apache Kafka",python developer,2026-05-09 14:45:29
+1000166375,Руководитель отдела архитектуры и анализа,Смарт Горизонт,Не указан,True,,"DDD, BPMN, UML",python developer,2026-05-09 14:45:29
+1000166236,Разработчик видеотехнологий для Android,Яндекс,Санкт-Петербург,False,,"Android SDK, Kotlin, Dagger 2, Разработка мобильных приложений, Разработка под Android, Coroutines",python developer,2026-05-09 14:45:29
+1000166338,Системный аналитик,ITK academy,Краснодар,True,от 75 000 до 130 000 ₽,"REST, SQL, BPMN, UML, ER-диаграммы, SOAP, Разработка ТЗ",python developer,2026-05-09 14:45:29
+1000166301,PHP и Node.js разработчик,TripShock Adventures,Не указан,True,от 1000 до 2500 $,"MySQL, PHP, Node.js, NoSQL, Git, ООП, REST",python developer,2026-05-09 14:45:29
+1000166292,Project Manager / Специалист по внедрению AI-менеджеров (удалённо),Leadhero,Москва,True,от 70 000 до 150 000 ₽,"LLM, Создание чат-ботов, Создание telegram-ботов, Лидогенерация, B2B, B2C, Внедрение CRM, Анализ данных, Microsoft Excel",python developer,2026-05-09 14:45:29
+1000133419,DevOps,Cloud.ru,Не указан,True,,"GitLab, DevOps, Openstack, Terraform, Ansible, Cucumber, Allure",python developer,2026-05-09 14:45:29
+1000166325,Сценарист чат-бота,МегаФон,Не указан,True,,"Написание сценариев, Создание чат-ботов",python developer,2026-05-09 14:45:29
+1000165750,Главный технический архитектор ИТ-продукта (HR-tech),Гринатом,Москва,True,,SAP HCM,python developer,2026-05-09 14:45:29
+1000166260,Программист C#,ИнфоТеКС,Уфа,False,,"C#, .NET, RabbitMQ, PostgreSQL",python developer,2026-05-09 14:45:29
+1000166329,Архитектор по облачным решениям цифровых сервисов,МегаФон,Не указан,True,,"Openstack, VMware, KVM",python developer,2026-05-09 14:45:29
+1000162686,Аналитик 1С,МегаФон,Москва,True,,1C: ERP,python developer,2026-05-09 14:45:29
+1000164861,MLOps специалист,Онлайн-кинотеатр Иви,Москва,False,,"GitLab, DevOps, Мониторинг",python developer,2026-05-09 14:45:29
+1000163944,"Инженер технической поддержки (2 линия, удаленно)",CarTrek,Благовещенск,True,,"Английский язык, SQL, REST",python developer,2026-05-09 14:45:29
+1000166288,"Team Lead Go (Golang, продукты для управления инфраструктурой и PKI (TLS/ГОСТ)",Netwrk,Москва,True,от 450 000 до 600 000 ₽,"Golang, PostgreSQL, Kubernetes, ClickHouse, Apache Kafka, RabbitMQ, TCP, DNS, Linux",python developer,2026-05-09 14:45:29
+1000166283,Frontend-разработчик на Angular,ИнфоТеКС,Томск,False,,"Angular, TypeScript, HTML, CSS, REST, Информационная архитектура, WebSockets, OpenID, XML",python developer,2026-05-09 14:45:29
+1000162592,Разработчик 1С,Банк России,Рязань,False,,Разработка под 1С,python developer,2026-05-09 14:45:29
+1000165728,AppSec,Гринатом,Москва,True,,CI/CD,python developer,2026-05-09 14:45:29
+1000158879,Системный аналитик,Synapse AI,Новосибирск,True,от 130 000 ₽,"SQL, REST, Базы данных",python developer,2026-05-09 14:45:29
+1000166233,Разработчик Ruby,ПСБ цифровая лаборатория,Москва,True,от 200 000 ₽,"Ruby, Ruby on Rails, PostgreSQL, Git, NoSQL, Golang, Kubernetes",python developer,2026-05-09 14:45:29
+1000161455,Старший разработчик на С++ в Яндекс Браузер,Яндекс,Москва,False,,"C++, Алгоритмы и структуры данных, Linux, C++ stl, Библиотека стандартных шаблонов, Разработка программного обеспечения, Оптимизация кода, Git, TeamCity, Кроссбраузерное тестирование",python developer,2026-05-09 14:45:32
+1000166084,1С программист,HRScan,Не указан,True,от 200 000 до 300 000 ₽,"ClickHouse, SQL, 1C: ERP, Разработка под 1С",python developer,2026-05-09 14:45:32
+1000165967,Специалист по тестированию систем искусственного интеллекта,ГАЗИНФОРМСЕРВИС,Санкт-Петербург,True,,"OWASP, Тестирование на проникновение",python developer,2026-05-09 14:45:32
+1000166370,Инженер поддержки MES систем,НЛМК ИТ,Липецк,True,,"SQL, Apache Kafka, PostgreSQL, Базы данных",python developer,2026-05-09 14:45:32
+1000166217,Архитектор программного обеспечения,Rubytech,Москва,False,,DevSecOps,python developer,2026-05-09 14:45:32
+1000136672,"Fullstack-разработчик (PHP, vue.js)",Fix Price,Москва,False,,"PHP, HTML, SQL, Linux, Docker, Nginx",python developer,2026-05-09 14:45:32
+1000166281,Старший инженер - программист 1С,Авиакомпания «Победа»,Москва,False,,Разработка под 1С,python developer,2026-05-09 14:45:32
+1000165039,DevOps-инженер,Анонимный работодатель,Москва,False,,"Git, CI/CD, Kubernetes",python developer,2026-05-09 14:45:32
+1000164816,Системный аналитик Linux,МТ-Интеграция,Москва,True,,"Git, Linux, UML, BPMN",python developer,2026-05-09 14:45:32
+1000166182,Инженер по автоматизации тестирования (Java),Банк России,Казань,False,,"Java, Тестирование UI, Selenide, JDBC, SQL, ООП",python developer,2026-05-09 14:45:32
+1000160388,Инженер по тестированию (ОС Astra Linux),Группа Астра,Москва,False,,"Linux, Bash, Ручное тестирование",python developer,2026-05-09 14:45:32
+1000166143,"SRE/DevOps инженер (highload, bare metal)",Karma8,Не указан,True,от 350 000 ₽,"Linux, Высоконагруженные системы, CI/CD",python developer,2026-05-09 14:45:32
+1000165965,Инженер по анализу защищенности инфраструктуры (тестирование на проникновение),ГАЗИНФОРМСЕРВИС,Санкт-Петербург,False,,"PCI DSS, Тестирование на проникновение, OWASP",python developer,2026-05-09 14:45:32
+1000161457,Разработчик на Go в команду разработки LLM-проектов для B2B,Яндекс,Санкт-Петербург,False,,"Golang, PostgreSQL, LLM",python developer,2026-05-09 14:45:32
+1000077869,Системный аналитик,Fix Price,Не указан,True,,"SQL, Базы данных",python developer,2026-05-09 14:45:32
+1000166237,PHP-разработчик,Граффинтех,Не указан,True,,"PHP, PostgreSQL, MySQL, Redis, RabbitMQ, Apache Kafka, REST, SOAP, GitHub, GitLab",python developer,2026-05-09 14:45:32
+1000161238,Системный аналитик ТОСБО,ИТ-Холдинг Т1,Не указан,True,,"REST, SOAP, JSON, Apache Kafka, SQL, PostgreSQL",python developer,2026-05-09 14:45:32
+1000166369,Старший инженер поддержки MES систем,НЛМК ИТ,Липецк,True,,"SQL, Apache Kafka, PostgreSQL, Базы данных",python developer,2026-05-09 14:45:32
+1000151615,Разработчик Node.js,X5 Digital,Москва,True,,"Node.js, TypeScript, JavaScript, MongoDB, Apache Kafka, ClickHouse, Elasticsearch",python developer,2026-05-09 14:45:32
+1000162889,Эксперт по валидации моделей,ПСБ цифровая лаборатория,Москва,False,,"SQL, Базы данных",python developer,2026-05-09 14:45:32
+1000166275,Системный инженер linux,ЛАНИТ,Не указан,True,,"Системы виртуализации, Unix, Администрирование Linux, Bash",python developer,2026-05-09 14:45:32
+1000163191,Дежурный сетевой инженер (L2),Cloud.ru,Москва,True,,SQL,python developer,2026-05-09 14:45:32
+1000161343,Системный администратор (DNS/Linux),ИТ-Холдинг Т1,Калининград,False,,"Linux, DNS, Системное администрирование, Администрирование Linux, Active directory",python developer,2026-05-09 14:45:32
+1000166184,Project-manager IT (менеджер проектов),Digital Life,Не указан,True,от 100 000 до 180 000 ₽,Битрикс24,python developer,2026-05-09 14:45:34
+1000165935,Системный администратор Unix,Центр Финансовых Технологий,Новосибирск,False,,"Linux, Unix, Администрирование Linux, Системы виртуализации",python developer,2026-05-09 14:45:34
+1000165350,Администратор систем ИБ (SIEM),Совкомбанк Технологии,Не указан,True,,"Splunk, ELK Stack, SQL, Bash, Высоконагруженные системы, Docker, Apache Kafka, ClickHouse, RabbitMQ",python developer,2026-05-09 14:45:34
+1000161235,Системный аналитик в команду демо-стендов и пилотов,ИТ-Холдинг Т1,Не указан,True,,"REST, SOAP, UML, BPMN, JSON, SQL",python developer,2026-05-09 14:45:34
+1000161274,Application Security Еngineer (Кибербезопасность),Wildberries & Russ,Санкт-Петербург,True,,Информационная безопасность,python developer,2026-05-09 14:45:34
+1000165754,SRE-инженер,Rambler&Co,Москва,True,,"Ansible, Docker, Prometheus, Nginx",python developer,2026-05-09 14:45:34
+1000166179,Веб-аналитик,Marfatech,Не указан,True,,"Яндекс.Метрика, SQL",python developer,2026-05-09 14:45:34
+1000166313,Системный аналитик,БЮРО 1440,Не указан,True,,САПР,python developer,2026-05-09 14:45:34
+1000160390,AppSec-инженер,Группа Астра,Москва,False,,"SAST/DAST, Linux",python developer,2026-05-09 14:45:34
+1000165051,Разработчик 1С (Middle),Анонимный работодатель,Рязань,True,,Разработка под 1С,python developer,2026-05-09 14:45:34
+1000166284,Senior DevOps-инженер на проект банка (система распознавания документов),Юзтех,Не указан,True,,"Docker, PostgreSQL, Базы данных, MySQL, Linux, Высоконагруженные системы",python developer,2026-05-09 14:45:34
+1000165563,Аналитик по безопасности информационных систем,Совкомбанк Технологии,Саратов,False,,"Информационная безопасность, Анализ вредоносных программ, OWASP",python developer,2026-05-09 14:45:34
+1000166390,Технический писатель,WebSoft,Санкт-Петербург,True,,"JavaScript, C#, Техническая документация",python developer,2026-05-09 14:45:34
+1000166087,"Системный администратор (импортозамещение, Ред Софт)",Лига Цифровой Экономики,Москва,False,,"Linux, Samba",python developer,2026-05-09 14:45:34
+1000166240,Эксперт по безопасной разработке,ИнфоТеКС,Томск,False,,SAST/DAST,python developer,2026-05-09 14:45:34
+1000162894,Аналитик данных,ПСБ цифровая лаборатория,Москва,False,,SQL,python developer,2026-05-09 14:45:34
+1000165229,Системный администратор vsphere NSX,Анонимный работодатель,Москва,True,,"Vmware vSphere, VMware",python developer,2026-05-09 14:45:34
+1000163093,Старший инженер OpenStack,Cloud.ru,Москва,False,,Linux,python developer,2026-05-09 14:45:37
+1000163188,Технический лидер SRE,Cloud.ru,Москва,True,,SQL,python developer,2026-05-09 14:45:37
+1000166279,MLOps,Лаборатория Касперского,Не указан,True,,Информационная безопасность,python developer,2026-05-09 14:45:37
+1000165879,Инженер аппаратной балансировки F5,ИТ-Холдинг Т1,Хабаровск,False,,"Nginx, Linux, Docker, Citrix, Администрирование сетей, Сетевые технологии, Мониторинг сетей",python developer,2026-05-09 14:45:37
+1000156870,Администратор СХД и SAN,ИТ-Холдинг Т1,Хабаровск,False,,"Сеть хранения данных, Системное администрирование, Администрирование серверов",python developer,2026-05-09 14:45:37
+1000161385,Инженер по балансировке,ИТ-Холдинг Т1,Не указан,True,,Nginx,python developer,2026-05-09 14:45:37
+1000166178,"Системный администратор (Middle, в офис г. Йошкар-Ола)",TravelLine,Йошкар-Ола,False,,"MySQL, Asterisk, Active directory, DNS, Системное администрирование, Администрирование Windows, Администрирование Linux, Администрирование сетей, Hyper-V, Zabbix",python developer,2026-05-09 14:45:37
+1000166155,SRE-инженер,SimbirSoft,Не указан,True,,"Kubernetes, Docker, CI/CD, Ansible",python developer,2026-05-09 14:45:37
+1000165267,AppSec-инженер,Банк России,Екатеринбург,False,,SAST/DAST,python developer,2026-05-09 14:45:37
+1000163355,Team Lead PHP,Marfatech,Не указан,True,,"PHP, Базы данных, MySQL, Symfony, Управление людьми, Построение команды",python developer,2026-05-09 14:45:37
+1000166321,Разработчик NET/C# с опытом OpenText xECM,МегаФон,Санкт-Петербург,False,,"C#, .NET",python developer,2026-05-09 14:45:37
+1000163192,SRE-инженер,Cloud.ru,Москва,True,,SQL,python developer,2026-05-09 14:45:37
+1000165812,Руководитель IT / Head of IT,Сигма,Волжский,False,от 160 000 до 200 000 ₽,"Linux, MySQL, VMWare ESXi, Git, GitLab, CI/CD, Zabbix, Виртуализация, Администрирование сетей",python developer,2026-05-09 14:45:37
+1000166399,1С Программист (Middle / Middle+),Greenway Global,Не указан,True,от 150 000 ₽,"1C: ERP, Git, CI/CD",python developer,2026-05-09 14:45:37
+1000161256,Системный аналитик (НО БО),ИТ-Холдинг Т1,Казань,True,,"SQL, REST, XML",python developer,2026-05-09 14:45:37
+1000166388,Системный аналитик,deeplay,Не указан,True,,SQL,python developer,2026-05-09 14:45:37
+1000139016,Аналитик SOC по направлению анализа киберугроз (Threat Intelligence),ПСБ цифровая лаборатория,Москва,False,,Информационная безопасность,python developer,2026-05-09 14:45:37
+1000166250,Релиз-менеджер,РОСГОССТРАХ,Москва,True,,"CI/CD, SDL/SDLC, Jira",python developer,2026-05-09 14:45:37
+1000143458,DevOps инженер [Kubernetes],deeplay,Не указан,True,,"Kubernetes, Terraform, Ansible, Linux, Docker, CI/CD, AWS, Google Cloud Platform",python developer,2026-05-09 14:45:38
+1000165915,Руководитель группы DevOps,Банк России,Томск,False,,"DevOps, Centos, Linux, GitLab, PostgreSQL, Kubernetes, Apache Kafka, Jenkins, Debian, Bash",devops,2026-05-09 14:45:41
+1000166251,Devops - инженер (middle/senior),М Тех,Москва,True,,GitLab,devops,2026-05-09 14:45:41
+1000166372,Администратор БД/Разработчик SQL,Arenadata,Москва,False,,"Microsoft SQL, T-SQL, Git, SSIS",devops,2026-05-09 14:45:41
+1000098092,Project Manager (ЦСТМ),СберЗдоровье,Не указан,True,,"Управление проектами, Управление разработкой, Agile, Scrum",devops,2026-05-09 14:45:43
+1000165914,Системный аналитик,Банк России,Томск,False,,"SQL, Системный анализ, BPMN",devops,2026-05-09 14:45:43
+1000166090,Менеджер проектов (junior),ЗАРЯД,Краснодар,True,,"Управление проектами, Ведение переговоров, Планирование, Управление рисками, Управление изменениями",devops,2026-05-09 14:45:43
+1000166293,Аналитик,ЛАНИТ,Москва,False,,"Linux, Docker",devops,2026-05-09 14:45:43
+1000166064,Технический архитектор 1с,OPEN group,Санкт-Петербург,True,от 400 000 ₽,"Автоматизация процессов, 1C: ERP",devops,2026-05-09 14:45:43
+1000112963,Эксперт по информационной безопасности/ Архитектор ИБ,ИТ-Холдинг Т1,Самара,True,,"Проектирование информационных систем, Информационная безопасность, Анализ требований, Техническая документация, Управление требованиями к ПО",devops,2026-05-09 14:45:46
+1000161264,Эксперт по информационной безопасности,ИТ-Холдинг Т1,Не указан,True,,"Управление рисками, Информационная безопасность, Управление проектами, Waterfall",devops,2026-05-09 14:45:46
+1000162782,Специалист по информационной безопасности,ИТ-Холдинг Т1,Не указан,True,,"Управление рисками, Информационная безопасность, Управление проектами, Waterfall",devops,2026-05-09 14:45:46
+1000166312,Консультант SAP EWM,М Тех,Москва,True,,SAP,machine learning,2026-05-09 14:45:49
+1000166203,Golang-разработчик,М Тех,Не указан,True,,"Golang, Apache Kafka",machine learning,2026-05-09 14:45:49
+1000166197,Android-разработчик,М Тех,Москва,True,,"Разработка под Android, Kotlin",machine learning,2026-05-09 14:45:49
+1000166199,Аналитик 1С (ЗУП),М Тех,Москва,True,,Администрирование 1С,machine learning,2026-05-09 14:45:52
+1000166343,Системный аналитик,М Тех,Москва,False,,"SQL, REST, SOAP, Apache Kafka, PostgreSQL",machine learning,2026-05-09 14:45:52
+1000165810,DevOps-инженер,ИТ-компания «Лоция»,Москва,True,,"CI/CD, Kubernetes, Docker, Nginx, Windows Azure",machine learning,2026-05-09 14:45:52
+1000166364,Технический писатель (ИТ-инфраструктура),BSS,Не указан,True,,Техническая документация,machine learning,2026-05-09 14:45:52
